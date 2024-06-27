@@ -16,7 +16,9 @@
 ## Muzeirea Carpentry (Small Business Web)
 
 [Muzierea Carpentry Website](https://muzeireacarpentry.com/)
-
+⭐⭐⭐⭐⭐
+"Hey NexGen Loop! I am really happy with the results. They gave me the best website at the lowest cost we could offer with visual designs for our company. We recommend NexGen Loop for creating Visual identity for your brand."
+- Vikramjit Singh, Muzeirea Carpentry
 
 ## AceTeam Developers (Showcase Website)
 
