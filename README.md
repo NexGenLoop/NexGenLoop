@@ -1,3 +1,7 @@
-## Hi there 👋
+# NexGen Loop
+## Innovative Web Solutions for Businesses
 
-# This is NexGen Loop
+### On going Projects
+> Web Designs
+> Graphic Design
+> UI / UX
