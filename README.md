@@ -1,4 +1,4 @@
-[![NexGen Loop Logo-02](https://github.com/NexGenLoop/NexGenLoop/assets/167745884/0b5419bd-568a-44ef-a92d-ae593cd5d598)]([url](https://nexgenloop.site/))
+![Text NexGen Logo White](https://github.com/NexGenLoop/NexGenLoop/assets/167745884/59bcb95b-f73a-42ae-b422-3dcab555ffe7)
 
 # NexGen Loop
 ## Innovative Web Solutions for Businesses
@@ -14,3 +14,5 @@
 ### Projects we Worked on!
 
 ## Muzeirea Carpentry
+
+[Muzierea Carpentry Website]([url](https://muzeireacarpentry.com/))
