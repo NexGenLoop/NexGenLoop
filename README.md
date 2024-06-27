@@ -1,4 +1,5 @@
 ![Text NexGen Logo White](https://github.com/NexGenLoop/NexGenLoop/assets/167745884/59bcb95b-f73a-42ae-b422-3dcab555ffe7)
+!https://github.com/NexGenLoop/NexGenLoop/assets/167745884/59bcb95b-f73a-42ae-b422-3dcab555ffe7{: width="200"}
 
 # NexGen Loop
 ## Innovative Web Solutions for Businesses
@@ -39,4 +40,8 @@
 
 "Placed a order of Logo design and just got it in 12 hours! I LOVE THERE SERVICE. I recommend you to buy visual designs from them."
 - Crazzy Technical
+
+## Get your stunning website and visual designs now!! 👍
+
+[Contact NexGen Loop Now!](https://nexgenloop.site/#contactus)
 
